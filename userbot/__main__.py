@@ -6,7 +6,7 @@
 # Copyright (C) 2021 TeamUltroid for autobot
 # Ported by @mrizmanaziz
 # FROM Man-Userbot
-# ReCode by @Pocongonlen
+# ReCode by @xnjuju
 #
 """ Userbot start point """
 
